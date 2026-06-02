@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP NET MVC/Frontend/Untitled.md",
+                "file": "Tele/T- 3/11. Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "11. Example"
+            }
+          },
+          {
+            "id": "7d808c64b0d16b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/RDBMS/1. SQL Server/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,44 +194,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea710ac56e8709dc",
+  "active": "7d808c64b0d16b66",
   "lastOpenFiles": [
-    "CSherp/LINQ/OrderBy/6. Example.md",
-    "ASP NET MVC/Frontend/Untitled.md",
-    "ASP NET MVC/Frontend",
-    "ASP NET MVC",
-    "CSherp/LINQ/OrderBy/5. ORDER BY.md",
-    "My-Note/CSherp/LINQ/OrderBy/5. ORDER BY.md",
-    "My-Note/CSherp/LINQ/OrderBy/Example.md",
-    "My-Note/CSherp/Default Behaviour/Default Parameter as parameter.md",
-    "My-Note/CSherp/LINQ/OrderBy",
-    "My-Note/CSherp/LINQ",
-    "CSherp/Default Behaviour/Default Parameter as parameter.md",
-    "My-Note/CSherp/Default Behaviour",
-    "My-Note/CSherp",
-    "My-Note/README.md",
-    "My-Note/LICENSE",
-    "My-Note",
-    "CSherp/Default Behaviour",
-    "CSherp",
-    "ComputerScience-Engineering-Bangla/README.md",
-    "N            2.  Software Department/1.  Framework/Frontend/CSS/Animated  CSS Learning Site.md",
-    "N            2.  Software Department/1.  Framework/Frontend/HTML/1. Learning Path/1. YouTube.md",
-    "N            2.  Software Department/6.   DSA/DSA Practice with YouTube/Youtube resources.md",
-    "N            2.  Software Department/3.  System Design/1. SOLID/3.  Liskov Substitution Principles/1.  Liskov    substitution  Principles.md",
-    "N            2.  Software Department/8. OOP/Delegation/6.  Delegation vs Inheritance.md",
-    "N            2.  Software Department/8. OOP/Delegation/2. Basic Introduction.md",
-    "N            2.  Software Department/8. OOP/Delegation/1. Basic diff bw delegate & Inheritance.md",
-    "Propmpt Engineering/Chatgpt/1. Translation into bangla.md",
-    "N            30.   Website for  daily life/Untitled.md",
-    "N            30.   Website for  daily life/Down  YouTube  video Sub.md",
-    "N            30.   Website for  daily life/2. Optimize your search techniquer.md",
-    "N           500. Study in Abroad Scholarship/1. Official Websites/1..md",
-    "N            2.  Software Department/8. OOP/3. C#/10 . Cass থেকে  Objection Creation/1 . Cass থেকে  Objection Creation.md",
-    "N            2.  Software Department/0.  Programming/1.  Programming Language/0. CheatSheet/1. Sites.md",
-    "N            2.  Software Department/6.   DSA/Complete DSA/1. Complete Package/1. Free resources and.md",
-    "N            2.  Software Department/6.   DSA/DSA Free course/Gate CS.md",
-    "N            2.  Software Department/6.   DSA/DSA Free course/YouTube/YouTube Free Resources.md",
+    "Production/Db Design/Drawing 2026-05-21 12.37.01.excalidraw.md",
+    "Tele/T- 3/11. Example.md",
+    "Production/Db Design",
+    "Production",
+    "Tele/T- 3/10. Nyquist & Shannon Theory.md",
+    "Tele/T- 3/9. Transmission Channel.md",
+    "Tele/T- 3/6. Signal Table.md",
+    "Tele/T- 3/8.Ans - Is Discrete-Continuous Possible.md",
+    "Tele/T- 3/7. Is it possible( x- Discrete, f(x) - Continuous ).md",
+    "Tele/T- 3/4. Analog Signal vs Digital Signal.md",
+    "Tele/T- 3/5. Continuous Vs Discrete Signal.md",
+    "Pasted image 20260517152540.png",
+    "Pasted image 20260517152452.png",
+    "Tele/T- 3/3. Block Diagram.md",
+    "Tele/T- 3",
+    "Tele/T- 3/2. Transmitter.md",
+    "Tele/T- 3/1. Transducer.md",
+    "Case Study/1. Log Out Paradox/Solution/Untitled.md",
+    "Tele",
+    "Case Study/1. Log Out Paradox/Solution/4. How to handle JWT issue in real world.md",
+    "Case Study/1. Log Out Paradox/Solution/3. Problem of JWT.md",
+    "Case Study/1. Log Out Paradox/Prob Statement/1. Problem.md",
+    "Case Study/1. Log Out Paradox/Solution/2. Modern Day solution (JWT).md",
+    "Case Study/1. Log Out Paradox/Solution/1. Old way solution.md",
+    "Case Study/1. Log Out Paradox/Prob Statement",
+    "Case Study/1. Log Out Paradox/Solution",
+    "User Journey/Accounting & Finance Journey.md",
+    "System Design/VitalityCash overview.md",
+    "Case Study/1. Log Out Paradox",
+    "Case Study",
+    "System Design",
+    "Database/RDBMS/1. SQL Server/Index.md",
+    "User Journey",
+    "ASP NET MVC/BackEnd/1.Exception/3. Result/1. Wrong way to use exception everywhere.md",
+    "ASP NET MVC/BackEnd/1.Exception/3. Result/3. Exception vs Result.md",
+    "ASP NET MVC/BackEnd/1.Exception/3. Result/2. Exception replaced by Result.md",
+    "ASP NET MVC/BackEnd/1.Exception/2. Modern Day of Exception Handling/3. Old style of Exception handling.md",
+    "ASP NET MVC/BackEnd/1.Exception/2. Modern Day of Exception Handling/2. Modern Day of Exception Handling.md",
     "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
     "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/9. Threading/2. Concept/Untitled.canvas",
     "N            2.  Software Engineering/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
@@ -234,8 +251,6 @@
     "Pasted image 20241030204746.png",
     "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/8.   Migration/2. Migration Working Flow Visual Studio.canvas",
     "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/2. program.cs/1.6  DI  and.canvas",
-    "6.  Software Engineering/2.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
-    "Pasted image 20240925093414.png",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg"
+    "6.  Software Engineering/2.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas"
   ]
 }
