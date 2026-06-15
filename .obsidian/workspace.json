@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/RDBMS/1. SQL Server/Index.md",
+                "file": "ASP NET MVC/BackEnd/2. EF Core/2. What is Up and Down in EF Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "2. What is Up and Down in EF Core"
             }
           }
         ],
@@ -196,6 +196,11 @@
   },
   "active": "7d808c64b0d16b66",
   "lastOpenFiles": [
+    "ASP NET MVC/BackEnd/2. EF Core/1. Rename Entity Property or Column Name.md",
+    "ASP NET MVC/BackEnd/2. EF Core/2. What is Up and Down in EF Core.md",
+    "Database/RDBMS/1. SQL Server/Untitled.md",
+    "ASP NET MVC/BackEnd/2. EF Core",
+    "Database/RDBMS/1. SQL Server/Index.md",
     "Production/Db Design/Drawing 2026-05-21 12.37.01.excalidraw.md",
     "Tele/T- 3/11. Example.md",
     "Production/Db Design",
@@ -227,13 +232,8 @@
     "Case Study/1. Log Out Paradox",
     "Case Study",
     "System Design",
-    "Database/RDBMS/1. SQL Server/Index.md",
-    "User Journey",
     "ASP NET MVC/BackEnd/1.Exception/3. Result/1. Wrong way to use exception everywhere.md",
     "ASP NET MVC/BackEnd/1.Exception/3. Result/3. Exception vs Result.md",
-    "ASP NET MVC/BackEnd/1.Exception/3. Result/2. Exception replaced by Result.md",
-    "ASP NET MVC/BackEnd/1.Exception/2. Modern Day of Exception Handling/3. Old style of Exception handling.md",
-    "ASP NET MVC/BackEnd/1.Exception/2. Modern Day of Exception Handling/2. Modern Day of Exception Handling.md",
     "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
     "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/9. Threading/2. Concept/Untitled.canvas",
     "N            2.  Software Engineering/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
