@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP NET MVC/BackEnd/2. EF Core/2. What is Up and Down in EF Core.md",
+                "file": "Database/RDBMS/1. SQL Server/1. Index query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. What is Up and Down in EF Core"
+              "title": "1. Index query"
             }
           }
         ],
@@ -196,11 +196,16 @@
   },
   "active": "7d808c64b0d16b66",
   "lastOpenFiles": [
-    "ASP NET MVC/BackEnd/2. EF Core/1. Rename Entity Property or Column Name.md",
+    "Database/RDBMS/1. SQL Server/Common  for daily life in Backend Developer.md",
+    "Database/RDBMS/1. SQL Server/Must know these queries in SQL Server.md",
+    "Database/RDBMS/1. SQL Server/3. Foreign key query.md",
+    "Database/RDBMS/1. SQL Server/2. Primary Key query.md",
+    "Database/RDBMS/1. SQL Server/1. Index query.md",
+    "Database/RDBMS/1. SQL Server/ER Diagram.md",
+    "Database/RDBMS/1. SQL Server/20. Query JOIN by Using or ON.md",
     "ASP NET MVC/BackEnd/2. EF Core/2. What is Up and Down in EF Core.md",
-    "Database/RDBMS/1. SQL Server/Untitled.md",
+    "ASP NET MVC/BackEnd/2. EF Core/1. Rename Entity Property or Column Name.md",
     "ASP NET MVC/BackEnd/2. EF Core",
-    "Database/RDBMS/1. SQL Server/Index.md",
     "Production/Db Design/Drawing 2026-05-21 12.37.01.excalidraw.md",
     "Tele/T- 3/11. Example.md",
     "Production/Db Design",
@@ -224,16 +229,11 @@
     "Case Study/1. Log Out Paradox/Solution/3. Problem of JWT.md",
     "Case Study/1. Log Out Paradox/Prob Statement/1. Problem.md",
     "Case Study/1. Log Out Paradox/Solution/2. Modern Day solution (JWT).md",
-    "Case Study/1. Log Out Paradox/Solution/1. Old way solution.md",
     "Case Study/1. Log Out Paradox/Prob Statement",
     "Case Study/1. Log Out Paradox/Solution",
-    "User Journey/Accounting & Finance Journey.md",
-    "System Design/VitalityCash overview.md",
     "Case Study/1. Log Out Paradox",
     "Case Study",
     "System Design",
-    "ASP NET MVC/BackEnd/1.Exception/3. Result/1. Wrong way to use exception everywhere.md",
-    "ASP NET MVC/BackEnd/1.Exception/3. Result/3. Exception vs Result.md",
     "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
     "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/9. Threading/2. Concept/Untitled.canvas",
     "N            2.  Software Engineering/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
