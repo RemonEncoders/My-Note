@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "85632156313c0bd3",
+        "id": "a8da16f1c5d9be6b",
         "type": "tabs",
         "children": [
           {
-            "id": "ea710ac56e8709dc",
+            "id": "55f55d9985e76f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/HMS/Stock Out/Re-name Controller.md",
+                "file": "Database/RDBMS/1. SQL Server/30. Database state is ONLINE or OFFLINE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Re-name Controller"
+              "title": "30. Database state is ONLINE or OFFLINE"
+            }
+          },
+          {
+            "id": "5554ffbfd66f3915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/HMS/Pharmacy Drug/4.current status.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.current status"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +83,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 357.5
   },
   "right": {
     "id": "58b079aa682c54e8",
@@ -95,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.  Software Engineering/1.  Framework/Asp.NET/3.  ADO.NET/ADO .NET     vs    ORM   vs    EF.md",
+                "file": "System Design/HMS/Pharmacy/1. Explore new feature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ADO .NET     vs    ORM   vs    EF"
+              "title": "Backlinks for 1. Explore new feature"
             }
           },
           {
@@ -157,8 +174,7 @@
               "title": "advanced-tables-toolbar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,44 +195,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea710ac56e8709dc",
+  "active": "5554ffbfd66f3915",
   "lastOpenFiles": [
-    "System Design/HMS/Stock Level/Full Execution flow how to develop Stock Level Report.md",
-    "System Design/HMS/Stock Out/Re-name Controller.md",
-    "System Design/HMS/Stock Out",
-    "System Design/HMS/Stock Level/3. My question.md",
-    "System Design/HMS/Stock Level/2. Why not Current stock.md",
-    "System Design/HMS/Stock Level/1. Overall.md",
-    "System Design/HMS/Current User logged in problem/2. Effect of CurrentUserService on entire solution.md",
-    "System Design/HMS/Stock Level",
-    "System Design/HMS/Current User logged in problem/1.CurrentUserService can be a problem.md",
-    "System Design/HMS/Product and Categories table/3. Solution by Claude - Fable.md",
-    "System Design/HMS/Current User logged in problem",
-    "System Design/HMS/Product and Categories table/2. Solution By Chatgpt.md",
-    "System Design/HMS/Product and Categories table/1. Problem of existing table.md",
-    "C programming/Recursion Output Problems (Organized)/02 - Infinite Recursion & Traps.md",
-    "System Design/HMS/Product and Categories table",
-    "C programming/Recursion Output Problems (Organized)/01 - Tracing & Output Order.md",
-    "Database/RDBMS/1. SQL Server/A Column is appread twice so db update throw an error.md",
-    "System Design/HMS/PR Approval logic/1. Approval Policy Overlapping condition checking logic.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/01. Business Requirement.md",
-    "System Design/HMS/PR Approval logic",
-    "System Design/HMS/3. Concern of Dynamic Work flow.md",
-    "System Design/HMS/2. Workflow table design.md",
-    "System Design/HMS/1. Dynamic Work-Flow.md",
-    "System Design/HMS/4. After discussing with Claude finalize this structure.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/11. Open Items and Future Scope.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/10. Workflow Execution Example.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/09. Key Concepts Explained.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/08. Guards and Validation.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/07. Approval State Flow (Engine).md",
-    "System Design/HMS/PR Approval Workflow (Organized)/06. Policy Resolution Logic.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/05. Enums.md",
-    "System Design/HMS/PR Approval Workflow (Organized)",
-    "System Design/HMS",
-    "ComputerScience-Engineering-Bangla",
-    "N            2.  Software Department/1.  Framework/Frontend/HTML/1. Learning Path",
-    "N            2.  Software Department/1.  Framework/Frontend/HTML",
+    "System Design/HMS/Pharmacy Drug/3. Drug publish to drug transfer from IMS.md",
+    "System Design/HMS/Pharmacy Drug/4.current status.md",
+    "System Design/HMS/Pharmacy Drug/1. Drug publish to product journey.md",
+    "System Design/HMS/Pharmacy/21. gpt review of claude suggestion.md",
+    "Database/RDBMS/Query Optimization/0. Query Store.md",
+    "Database/RDBMS/Query Optimization/1.Query optimization technique.md",
+    "System Design/HMS/Pharmacy Drug/2. new suggestion of refactoring on publishing a Drug to Product.md",
+    "Database/RDBMS/Query Optimization",
+    "System Design/HMS/Inventory Transfer/2. gpt review over the claude analysis.md",
+    "System Design/HMS/Pharmacy Drug",
+    "System Design/HMS/Inventory Transfer/1. Inventory Transfer actually happening in code Transaction.md",
+    "DevOps/Observebility/1. Linkedin.md",
+    "System Design/HMS/Inventory Transfer",
+    "DevOps/Observebility/Untitled 1.md",
+    "DevOps/Observebility",
+    "System Design/VC/Vitality Cash sale has a major issue.md",
+    "DevOps",
+    "System Design/HMS/WareHouse/2. very important issue to add new enum value.md",
+    "System Design/VC",
+    "System Design/HMS/Pharmacy/20. claude finding of InventoryTransfer.md",
+    "System Design/HMS/Pharmacy/18. claude find a inconsistency in goodsreceive.md",
+    "System Design/HMS/Pharmacy/19. gpt explained.md",
+    "System Design/HMS/Pharmacy/17. clude concrete plan.md",
+    "System Design/HMS/Pharmacy/16. gpt suggestion over claude.md",
+    "System Design/HMS/Pharmacy/15. claude analysis of 14.md",
+    "System Design/HMS/Pharmacy/14. central warehouse issue.md",
+    "System Design/HMS/Pharmacy/13. reviewed by chat gpt.md",
+    "System Design/HMS/Pharmacy/Untitled 1",
+    "System Design/HMS/Pharmacy/Untitled",
+    "System Design/HMS/Pharmacy/12. Risk analysis.md",
+    "System Design/HMS/Pharmacy/11. claude answered.md",
+    "System Design/HMS/Pharmacy/10. one question.md",
+    "System Design/HMS/Pharmacy/9. gpt explain why i need a extra table.md",
+    "System Design/HMS/Pharmacy/8. after review claude change the plan.md",
+    "System Design/HMS/WareHouse",
+    "System Design/HMS/0. Big Blunder in accounting invoice generation",
+    "System Design/HMS/Untitled.canvas",
     "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
     "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/9. Threading/2. Concept/Untitled.canvas",
     "N            2.  Software Engineering/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
@@ -234,7 +251,6 @@
     "Pasted image 20241030204746.png",
     "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/8.   Migration/2. Migration Working Flow Visual Studio.canvas",
     "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/2. program.cs/1.6  DI  and.canvas",
-    "6.  Software Engineering/2.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
     "Pasted image 20240925093414.png",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg"
   ]
