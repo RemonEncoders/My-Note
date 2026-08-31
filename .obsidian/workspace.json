@@ -1,30 +1,20 @@
 {
   "main": {
-    "id": "cc09454f3a24820e",
+    "id": "f86f90b7f9103729",
     "type": "split",
     "children": [
       {
-        "id": "85632156313c0bd3",
+        "id": "e8efed4169930d73",
         "type": "tabs",
         "children": [
           {
-            "id": "ea710ac56e8709dc",
+            "id": "6a0e5d6f5dbbe224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/HMS/Stock Out/Re-name Controller.md",
-                "file": "Networking/2.Practical Learning/1.Resources.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Re-name Controller"
-              "title": "1.Resources"
+              "title": "New tab"
             }
           }
         ]
@@ -33,15 +23,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eb372c5dc74e58a3",
+    "id": "d5ab7bc6b0ea6979",
     "type": "split",
     "children": [
       {
-        "id": "69b0ec7aa5c28fb5",
+        "id": "0aee2fd06d083908",
         "type": "tabs",
         "children": [
           {
-            "id": "40583259ed643719",
+            "id": "27ac5d167bd7337c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "774f665c0c654d17",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,52 +63,38 @@
             }
           },
           {
-            "id": "2c141a25d4e1b4c4",
+            "id": "eedff22c08c7a374",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "ffc8ac895f14483f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 300
   },
   "right": {
-    "id": "58b079aa682c54e8",
+    "id": "80fc581547f689c9",
     "type": "split",
     "children": [
       {
-        "id": "d99f66baa416b141",
+        "id": "8882ae929d9b61e0",
         "type": "tabs",
         "children": [
           {
-            "id": "581939285830ca85",
+            "id": "58348adb9972f033",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.  Software Engineering/1.  Framework/Asp.NET/3.  ADO.NET/ADO .NET     vs    ORM   vs    EF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,60 +104,52 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ADO .NET     vs    ORM   vs    EF"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a87a3fb079404343",
+            "id": "55899b4a959fab72",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/1.  FJP/2.  Problem Solving/4. Array/9.  Sub set/3. Code of sub set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Code of sub set"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "4b26e389afe17511",
+            "id": "f5a89dd274530eca",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "16694368e19a620e",
+            "id": "aed33de9c71e2263",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "N            2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/1.  FJP/2.  Problem Solving/4. Array/2.   2-D array/8.  Matrix Multiplication/8. Code of matrix multiplication.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Code of matrix multiplication"
-            }
-          },
-          {
-            "id": "487ef3e209794100",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +158,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,82 +165,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ea710ac56e8709dc",
-  "lastOpenFiles": [
-    "System Design/HMS/Stock Level/Full Execution flow how to develop Stock Level Report.md",
-    "System Design/HMS/Stock Out/Re-name Controller.md",
-    "System Design/HMS/Stock Out",
-    "System Design/HMS/Stock Level/3. My question.md",
-    "System Design/HMS/Stock Level/2. Why not Current stock.md",
-    "System Design/HMS/Stock Level/1. Overall.md",
-    "System Design/HMS/Current User logged in problem/2. Effect of CurrentUserService on entire solution.md",
-    "System Design/HMS/Stock Level",
-    "System Design/HMS/Current User logged in problem/1.CurrentUserService can be a problem.md",
-    "System Design/HMS/Product and Categories table/3. Solution by Claude - Fable.md",
-    "System Design/HMS/Current User logged in problem",
-    "System Design/HMS/Product and Categories table/2. Solution By Chatgpt.md",
-    "System Design/HMS/Product and Categories table/1. Problem of existing table.md",
-    "C programming/Recursion Output Problems (Organized)/02 - Infinite Recursion & Traps.md",
-    "System Design/HMS/Product and Categories table",
-    "C programming/Recursion Output Problems (Organized)/01 - Tracing & Output Order.md",
-    "Database/RDBMS/1. SQL Server/A Column is appread twice so db update throw an error.md",
-    "System Design/HMS/PR Approval logic/1. Approval Policy Overlapping condition checking logic.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/01. Business Requirement.md",
-    "System Design/HMS/PR Approval logic",
-    "System Design/HMS/3. Concern of Dynamic Work flow.md",
-    "System Design/HMS/2. Workflow table design.md",
-    "System Design/HMS/1. Dynamic Work-Flow.md",
-    "Bookish Knowledge/Ports and Protocol/2. Mnemonic.md",
-    "Networking/2.Practical Learning/1.Resources.md",
-    "Networking/2.Practical Learning",
-    "Networking",
-    "New folder",
-    "Bookish Knowledge/Ports and Protocol/Port and Protocol.md",
-    "Bookish Knowledge/Ports and Protocol",
-    "HCK.md",
-    "Bookish Knowledge",
-    "Untitled",
-    "System Design/HMS/PR Approval Workflow (Organized)/04. Data Model and ERD.md",
-    "System Design/HMS/4. After discussing with Claude finalize this structure.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/11. Open Items and Future Scope.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/10. Workflow Execution Example.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/09. Key Concepts Explained.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/08. Guards and Validation.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/07. Approval State Flow (Engine).md",
-    "System Design/HMS/PR Approval Workflow (Organized)/06. Policy Resolution Logic.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/05. Enums.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/00. README (Index).md",
-    "System Design/HMS/1. Dynamic Work-Flow.md",
-    "System Design/HMS/3. Concern of Dynamic Work flow.md",
-    "System Design/HMS/PR Approval Workflow (Organized)/03. Locked Design Decisions.md",
-    "System Design/HMS/PR Approval Workflow (Organized)",
-    "System Design/HMS",
-    "ComputerScience-Engineering-Bangla",
-    "N            2.  Software Department/1.  Framework/Frontend/HTML/1. Learning Path",
-    "N            2.  Software Department/3.  System Design/1. SOLID/3.  Liskov Substitution Principles/1.  Liskov    substitution  Principles.md",
-    "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
-    "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/9. Threading/2. Concept/Untitled.canvas",
-    "N            2.  Software Engineering/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
-    "Pasted image 20240925094949.png",
-    "Pasted image 20240925093734.png",
-    "Pasted image 20240624140402.png",
-    "N            2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/Untitled.canvas",
-    "N            2.  Software Engineering/Linux/Oracle LInux/Untitled.canvas",
-    "Pasted image 20240925093352.png",
-    "Untitled.canvas",
-    "Pasted Image 20241103165415_084.png",
-    "Pasted image 20241101114045.png",
-    "N            3.  AI/Untitled.canvas",
-    "Pasted image 20241030204909.png",
-    "Pasted image 20241030204746.png",
-    "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/8.   Migration/2. Migration Working Flow Visual Studio.canvas",
-    "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/2. program.cs/1.6  DI  and.canvas",
-    "6.  Software Engineering/2.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
-    "Pasted image 20240925093414.png",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg"
-  ]
+  "active": "6a0e5d6f5dbbe224",
+  "lastOpenFiles": []
 }
