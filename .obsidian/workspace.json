@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "f86f90b7f9103729",
+    "id": "3add36589c8ff0d5",
     "type": "split",
     "children": [
       {
-        "id": "e8efed4169930d73",
+        "id": "910f1aa37ab180da",
         "type": "tabs",
         "children": [
           {
-            "id": "6a0e5d6f5dbbe224",
+            "id": "e30f38ebdcf34033",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System Design/HMS/3.cmd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3.cmd"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d5ab7bc6b0ea6979",
+    "id": "24aefd9c413961a9",
     "type": "split",
     "children": [
       {
-        "id": "0aee2fd06d083908",
+        "id": "5034257eda081f10",
         "type": "tabs",
         "children": [
           {
-            "id": "27ac5d167bd7337c",
+            "id": "7e6e33a71a965c3c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "774f665c0c654d17",
+            "id": "0104f4fb99ff0a01",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "eedff22c08c7a374",
+            "id": "db47a17915d9bdd7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "80fc581547f689c9",
+    "id": "2115722109304dc2",
     "type": "split",
     "children": [
       {
-        "id": "8882ae929d9b61e0",
+        "id": "b619c35975f7f807",
         "type": "tabs",
         "children": [
           {
-            "id": "58348adb9972f033",
+            "id": "4fe9479f22fbc98d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System Design/HMS/3.cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +113,12 @@
             }
           },
           {
-            "id": "55899b4a959fab72",
+            "id": "7c2ce6e1a496978e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System Design/HMS/3.cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,7 +127,7 @@
             }
           },
           {
-            "id": "f5a89dd274530eca",
+            "id": "16949407f5b87048",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,11 +142,12 @@
             }
           },
           {
-            "id": "aed33de9c71e2263",
+            "id": "b594858b37198c6f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "System Design/HMS/3.cmd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,9 +173,10 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a0e5d6f5dbbe224",
+  "active": "e30f38ebdcf34033",
   "lastOpenFiles": []
 }
